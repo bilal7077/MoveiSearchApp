@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoveiApp/static/css/main.d74260de.css",
-    "main.js": "/MoveiApp/static/js/main.dca1ec4b.js",
-    "static/js/453.69f3745b.chunk.js": "/MoveiApp/static/js/453.69f3745b.chunk.js",
-    "index.html": "/MoveiApp/index.html",
-    "main.d74260de.css.map": "/MoveiApp/static/css/main.d74260de.css.map",
-    "main.dca1ec4b.js.map": "/MoveiApp/static/js/main.dca1ec4b.js.map",
-    "453.69f3745b.chunk.js.map": "/MoveiApp/static/js/453.69f3745b.chunk.js.map"
+    "main.css": "/bilal7077/Movei_App_Deploy/static/css/main.d74260de.css",
+    "main.js": "/bilal7077/Movei_App_Deploy/static/js/main.11b05041.js",
+    "static/js/453.69f3745b.chunk.js": "/bilal7077/Movei_App_Deploy/static/js/453.69f3745b.chunk.js",
+    "index.html": "/bilal7077/Movei_App_Deploy/index.html",
+    "main.d74260de.css.map": "/bilal7077/Movei_App_Deploy/static/css/main.d74260de.css.map",
+    "main.11b05041.js.map": "/bilal7077/Movei_App_Deploy/static/js/main.11b05041.js.map",
+    "453.69f3745b.chunk.js.map": "/bilal7077/Movei_App_Deploy/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d74260de.css",
-    "static/js/main.dca1ec4b.js"
+    "static/js/main.11b05041.js"
   ]
 }
