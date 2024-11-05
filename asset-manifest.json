@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MoveiSearchApp/static/css/main.06a007d2.css",
-    "main.js": "/MoveiSearchApp/static/js/main.f18a4be6.js",
+    "main.js": "/MoveiSearchApp/static/js/main.37a725ac.js",
     "static/js/453.69f3745b.chunk.js": "/MoveiSearchApp/static/js/453.69f3745b.chunk.js",
     "index.html": "/MoveiSearchApp/index.html",
     "main.06a007d2.css.map": "/MoveiSearchApp/static/css/main.06a007d2.css.map",
-    "main.f18a4be6.js.map": "/MoveiSearchApp/static/js/main.f18a4be6.js.map",
+    "main.37a725ac.js.map": "/MoveiSearchApp/static/js/main.37a725ac.js.map",
     "453.69f3745b.chunk.js.map": "/MoveiSearchApp/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06a007d2.css",
-    "static/js/main.f18a4be6.js"
+    "static/js/main.37a725ac.js"
   ]
 }
