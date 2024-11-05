@@ -1,7 +1,6 @@
 import React from 'react'
 import { useGlobalContext } from '../Context';
 import { NavLink } from 'react-router-dom';
-import SingleMovei from './SingleMovei';
 
 const Moveis = () => {
 
