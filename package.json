@@ -1,6 +1,6 @@
 {
  "version": "0.1.0",
- "homepage": "https://github.com/bilal7077/MoveiSearchApp.git",
+ "homepage": "https://github.com/bilal7077/MoveiApp.git",
  "private": true,
  "dependencies": {
   "@testing-library/jest-dom": "^5.17.0",
